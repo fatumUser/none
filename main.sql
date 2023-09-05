@@ -6,4 +6,5 @@ Id int not null AUTO_INCREMENT
 Name varchar(100) NOT NULL
 Age varchar(100) NOT NULL
 PRIMARY KEY (Id)
-)
+);
+
